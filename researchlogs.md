@@ -1,4 +1,4 @@
-[3](#Week 3)
+[3](#Week-3)
 # Week 1
 Placeholder, placeholder placeholder. Placeholder
 # Week 2
