@@ -3,9 +3,9 @@ Jump to week:
 # Week 1
 My name is Mitch, and this is my second quarter here at Pierce College. I have always enjoyed working on computers, doing things ranging from digital design to server management. More recently in my life I have found an interest in motorsports, more specifically drifting. Learning new things and figuring out how things work has always been something I have enjoyed.
 
-Before I started this class, I had no clue what technical writing meant. It was not until the first day of class when we reviewed the type of work this class includes, that I understood what it is. The readings that we have done so far are further enforcing the ideas and concepts I learned on the first day.
+Before I started this class, I had no clue what technical writing meant. It was not until the first day of class when we reviewed the type of work this class includes, did I understood what it meant. The readings that we have done so far are further enforcing the ideas and concepts I learned on the first day.
 
-Going through GitHub's "Hello World" tutorial on how to set up a repository was a prime example of good technical writing. It made it easy for a person like me with no prior experience to set everything up. This was because of how it went into specific detail every step of the way, without leaving out any important information that might be important. The use of screenshots and animated pictures helped to make it even easier to know where we were supposed to be.
+Going through GitHub's ["Hello World"](https://guides.github.com/activities/hello-world/) tutorial on how to set up a repository was a prime example of good technical writing. It made it easy for a person like me with no prior experience to set everything up. This was because of how it went into specific detail every step of the way, without leaving out any important information that might be important. The use of screenshots and animated pictures helped to make it even easier to know where we were supposed to be.
 
 
 # Week 2
