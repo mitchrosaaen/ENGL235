@@ -7,7 +7,7 @@ Before I started this class, I had no clue what technical writing meant. It was 
 
 Going through GitHub's ["Hello World"](https://guides.github.com/activities/hello-world/) tutorial on how to set up a repository was a prime example of good technical writing. It made it easy for a person like me with no prior experience to set everything up. This was because of how it went into specific detail every step of the way, without leaving out any important information that might be important. The use of screenshots and animated pictures helped to make it even easier to know where we were supposed to be.
 
-
+This week we looked at [The Programming Historian](https://programminghistorian.org/) and the [PierceHacker Project](https://jloan.github.io/pierce-hacker/) websites.
 # Week 2
 Placeholder, placeholder placeholder. Placeholder
 # Week 3
