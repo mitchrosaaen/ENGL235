@@ -18,7 +18,7 @@ While writing my instructions I had to be mindful of who the audience is, which 
 
 I chose to create my instructions with Microsoft Word. I did this because I am familiar with it and I know that it would be very simple to work with small images and text laid out along a grid. I then printed out the instructions and stapled it together into a multi-page booklet. This seemed to work well because the readers followed along exactly how I had intended it.
 
-This week, I learned more about the basics of GitHub, more about formatting Markdown, and most importantly I got a feel for some of the workflow that technical writing involves. I learned first-hand what it was like to read both good and bad instructions/tutorials. I learned how to turn my instructions into a logical step-by-step guide with graphics.
+This week, I learned more about the basics of GitHub, more about [formatting Markdown](https://github.com/mitchrosaaen/ENGL235/blob/master/markdown.md), and most importantly I got a feel for some of the workflow that technical writing involves. I learned first-hand what it was like to read both good and bad instructions/tutorials. I learned how to turn my instructions into a logical step-by-step guide with graphics.
 # Week 3
 Placeholder, placeholder placeholder. Placeholder
 # Week 4
