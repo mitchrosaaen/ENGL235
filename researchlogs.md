@@ -12,7 +12,7 @@ This week we looked at [The Programming Historian](https://programminghistorian.
 This week I have gained a simple understanding of what technical writing means, what it is, how it's used, and what kind of work a technical writer does.
 # Week 2
 This week we did a mini project, where we built our own Lego design and had to create instructions for our classmates on how to rebuild it. While creating the instructions I realized how important it is to give the reader very small steps, with as much detail as possible both in the descriptions and images. However I had to be careful to keep the amount of words and clutter in the images to a minimum to keep it easy to follow with minimal distractions. Everything has to be straight to the point. I ended up using small text boxes connected to each step-by-step picture to guide the reader through it easily.
-![My lego instructions](http://puu.sh/DgPUx/a34f8120d6.jpg)
+> ![My lego instructions](http://puu.sh/DgPUx/a34f8120d6.jpg)
 
 While writing my instructions I had to be mindful of who the audience is, which is my classmates. I know that everybody in the class is well educated, and at least a teenager. This means I can use normal to above average vocabulary without having to worry about the reader misunderstanding anything. I could also use a very minimalistic composition because I know that they are capable of maintaining their focus without the need of any crazy attention grabbing designs.
 
