@@ -20,9 +20,11 @@ I chose to create my instructions with Microsoft Word. I did this because I am f
 
 This week, I learned more about the basics of GitHub, more about [formatting Markdown](https://github.com/mitchrosaaen/ENGL235/blob/master/markdown.md), and most importantly I got a feel for some of the workflow that technical writing involves. I learned first-hand what it was like to read both good and bad instructions/tutorials. I learned how to turn my instructions into a logical step-by-step guide with graphics.
 # Week 3
-Placeholder, placeholder placeholder. Placeholder
-# Week 4
-Placeholder, placeholder placeholder. Placeholder
+This week we started the process of putting together a survey to help determine the contents for the PierceHacker project. I found the most difficult part about composing the survey was collaborating. The class was split into several different groups of people. Each group came up with their own ideas, however much of it was conflicting with others. This was an issue because there was minimal collaboration/communication outside of the groups, causing the development of the survey to be quite chaotic. I found the most interesting part about creating these survey questions was the technicality of it. Keeping our audience as our top priority while developing it, from start to finish, was very new and intriguing to me.
+
+Now that we are starting the PierceHacker project, the audience and purpose is becoming a bit clearer to me. The audience is the average Pierce College student, who may or may not be looking for help. Even if a student isn't having any issues with trying to figure something out, there can still be helpful tips/tricks that can be taken advantage of. The purpose is to provide both easy to access and easy to follow information about the things that students are expected to already understand for their classes, who may not fully have a grasp on yet. I think this information is being delivered via a public website to not only keep information easy, free, and accessible for all Pierce College students, but to also serve as a resource that is open for unlimited improvement, something that a textbook can't do.
+
+This week I learned, via hands on workshopping, how to develop an effective survey. Evaluating and applying information that we know about our audience to develop something effective has been a new experience for me.
 # Week 5
 Placeholder, placeholder placeholder. Placeholder
 # Week 6
