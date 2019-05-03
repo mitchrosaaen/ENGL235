@@ -28,7 +28,7 @@ This week I learned, via hands on workshopping, how to develop an effective surv
 # Week 4
 We have officially sent the survey out! After we get enough results, we are to write an analytical report on the data that we gathered. This isn't a simple task! First, I needed to do research about what exactly an analytical report is. What is the purpose? Who is it for?
 
-After a brief Google search, I found this page, [What Is an Analytical Report?](https://penandthepad.com/info-8708712-analytical-report.html), that helped me more understand what we are about to do.
+After a brief Google search, I found this page, [What Is an Analytical Report](https://penandthepad.com/info-8708712-analytical-report.html), that helped me understand more about what is expected in the upcoming assignment. This article described how analytical reports are a combination of both an informational report and a proposal. An analytical report will include identifying a problem from analyzing data, explaining the methods used to obtain the data, and making recommendations based on the data.
 # Week 5
 Placeholder, placeholder placeholder. Placeholder
 # Week 6
