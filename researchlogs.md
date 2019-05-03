@@ -25,6 +25,10 @@ This week we started the process of putting together a survey to help determine 
 Now that we are starting the PierceHacker project, the audience and purpose is becoming a bit clearer to me. The audience is the average Pierce College student, who may or may not be looking for help. Even if a student isn't having any issues with trying to figure something out, there can still be helpful tips/tricks that can be taken advantage of. The purpose is to provide both easy to access and easy to follow information about the things that students are expected to already understand for their classes, who may not fully have a grasp on yet. I think this information is being delivered via a public website to not only keep information easy, free, and accessible for all Pierce College students, but to also serve as a resource that is open for unlimited improvement, something that a textbook can't do.
 
 This week I learned, via hands on workshopping, how to develop an effective survey. Evaluating and applying information that we know about our audience to develop something effective has been a new experience for me.
+# Week 4
+We have officially sent the survey out! After we get enough results, we are to write an analytical report on the data that we gathered. This isn't a simple task! First, I needed to do research about what exactly an analytical report is. What is the purpose? Who is it for?
+
+After a brief Google search, I found this page, [What Is an Analytical Report?](https://penandthepad.com/info-8708712-analytical-report.html), that helped me more understand what we are about to do.
 # Week 5
 Placeholder, placeholder placeholder. Placeholder
 # Week 6
@@ -34,6 +38,4 @@ Placeholder, placeholder placeholder. Placeholder
 # Week 8
 Placeholder, placeholder placeholder. Placeholder
 # Week 9
-Placeholder, placeholder placeholder. Placeholder
-# Week 10
 Placeholder, placeholder placeholder. Placeholder
