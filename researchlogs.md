@@ -32,7 +32,9 @@ After a brief Google search, I found this page, [What Is an Analytical Report](h
 
 I think what I have learned this week correlates with the first course outcome about identifying and gathering appropriate information for a specific audience. Now that we have sent out the survey, we must create an analytical report. We have been gathering information about analytical reports which is new to me.
 # Week 5
-Placeholder, placeholder placeholder. Placeholder
+My process for drafting my report involved directly referencing sample reports online. The biggest challenge for me so far is determining what information I do and don't need. It's easy to get carried away with random things you find on a sample document that seem like they might be useful in the report, but in the end it's really of no use. In the report, I chose the questions from the survey that I found most useful and worked from them directly to reach my specific outcomes. I think this worked well because there were many questions in the survey that I figured were much less useful than others.
+
+Exchanging feedback on my peers reports was helpful to me because I was able to pick up on some ideas that I didn't think of before. The feedback that I recieved on my report let me know that I was in the right direction which was very good to know because it was easy for me to think I might have been doing something wrong. 
 # Week 6
 Placeholder, placeholder placeholder. Placeholder
 # Week 7
