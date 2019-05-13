@@ -34,7 +34,12 @@ I think what I have learned this week correlates with the first course outcome a
 # Week 5
 My process for drafting my report involved directly referencing sample reports online. The biggest challenge for me so far is determining what information I do and don't need. It's easy to get carried away with random things you find on a sample document that seem like they might be useful in the report, but in the end it's really of no use. In the report, I chose the questions from the survey that I found most useful and worked from them directly to reach my specific outcomes. I think this worked well because there were many questions in the survey that I figured were much less useful than others.
 
-Exchanging feedback on my peers reports was helpful to me because I was able to pick up on some ideas that I didn't think of before. The feedback that I recieved on my report let me know that I was in the right direction which was very good to know because it was easy for me to think I might have been doing something wrong. ![](http://puu.sh/DrEdE/6c718de417.png)
+Exchanging feedback on my peers reports was helpful to me because I was able to pick up on some ideas that I didn't think of before. The feedback that I recieved on my report let me know that I was in the right direction which was very good to know because it was easy for me to think I might have been doing something wrong. 
+> ![](http://puu.sh/DrEdE/6c718de417.png)
+
+To finalize the report, I just need to finish my interpretation of the data and put my thoughts and suggestions into writing. After that I can polish the edges a bit.
+
+This week I learned a lot about the analytical report creation process and have developed much more respect and understanding for its importance.
 # Week 6
 Placeholder, placeholder placeholder. Placeholder
 # Week 7
