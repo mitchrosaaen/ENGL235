@@ -25,7 +25,11 @@ After reading this tutorial, the student will be able to understand:
 
 ## Materials
 
-What materials (software, etc.) do people need in order to complete the lesson?
+The materials needed in order to complete this lesson include:
+
+- Laptop/desktop
+- Canvas account
+- Internet access
 
 ## Overview
 
