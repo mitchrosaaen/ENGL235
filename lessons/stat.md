@@ -49,9 +49,17 @@ Now that you have made it to the S.T.A.T homepage, you can now access the live c
 
 ### How to use live chat
 
-asdasdasdsa
+1. In the home page of S.T.A.T, scroll down to see the list of people that you can connect with.
+
+2. Click "Chat With Me!" to initiate the live support chat.
+
+3. If there is nobody online, you can send an offline message.
 
 ### How to access modules
+
+1. On the left side of the screen, open the "Modules" category.
+
+2. Select any module to download or open.
 
 ## Credits, Further Reading, etc.
 
