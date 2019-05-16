@@ -1,18 +1,27 @@
 ---
-title: My Killer Lesson
+title: How to take advantage of the Student Technology Assistance Team
 authors:
-- Jane Doe
-date: 2016-01-15
+- Mitch Rosaaen
+- Rodrigo Torres
+- Nhan Nguyen
+date: 2016-01-16
 reviewers:
-- John Doe
 - Jason Loan
 layout: lesson
-difficulty level: low [or, high, intermediate]
+difficulty level: low
 ---
 
 ## Lesson Abstact
 
+The Student Technology Assistance Team is a group of Pierce College team members that are abailable to provide help with anything ranging from Wifi, Canvas, Email, and more. This is accomplished through a live messaging system with knowledgable personnel such as professors, counselors, adbisors, and student volunteers. This feature can be found within the student services section within Canvas.
+
 ## Lesson Objectives/Outcomes
+
+After reading this tutorial, the student will be able to understand: 
+
+- Where to find S.T.A.T in Canvas.
+- How to use the live chat feature in S.T.A.T.
+- How to access other student key functions within the modules page.
 
 ## Materials
 
