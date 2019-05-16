@@ -37,11 +37,21 @@ This lesson responds to the low percentage of students that take advantage of S.
 
 ## Lesson Steps/Components [as many as needed]
 
+### How to find S.T.A.T
+
 1. Log into Canvas.
 
 2. Open the Student Services tab on the bottom of the left side of the screen.
 
 3. Open S.T.A.T.
+
+Now that you have made it to the S.T.A.T homepage, you can now access the live chat for assistance or use the modules for other helpful information.
+
+### How to use live chat
+
+asdasdasdsa
+
+### How to access modules
 
 ## Credits, Further Reading, etc.
 
