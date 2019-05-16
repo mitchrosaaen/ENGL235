@@ -4,7 +4,7 @@ authors:
 - Mitch Rosaaen
 - Rodrigo Torres
 - Nhan Nguyen
-date: 2016-01-16
+date: 2019-05-16
 reviewers:
 - Jason Loan
 layout: lesson
@@ -13,7 +13,7 @@ difficulty level: low
 
 ## Lesson Abstact
 
-The Student Technology Assistance Team is a group of Pierce College team members that are abailable to provide help with anything ranging from Wifi, Canvas, Email, and more. This is accomplished through a live messaging system with knowledgable personnel such as professors, counselors, adbisors, and student volunteers. This feature can be found within the student services section within Canvas.
+The Student Technology Assistance Team is a group of Pierce College team members that are available to provide help with anything ranging from Wifi, Canvas, Email, and more. This is accomplished through a live messaging system with knowledgable personnel such as professors, counselors, adbisors, and student volunteers. This feature can be found within the student services section within Canvas.
 
 ## Lesson Objectives/Outcomes
 
@@ -33,9 +33,15 @@ The materials needed in order to complete this lesson include:
 
 ## Overview
 
-This section may include an introduction to key ideas, concepts, or rationale for the lesson. For example, if you were doing a lesson on Zotero, piece of free bibliographic software, you would explain what what Zotero is, why it might be useful for learning to use, etc.
+This lesson responds to the low percentage of students that take advantage of S.T.A.T. This feature in Canvas is useful because it can provide useful information, especially for new students, about any issues that they might be having.
 
 ## Lesson Steps/Components [as many as needed]
+
+1. Log into Canvas.
+
+2. Open the Student Services tab on the bottom of the left side of the screen.
+
+3. Open S.T.A.T.
 
 ## Credits, Further Reading, etc.
 
