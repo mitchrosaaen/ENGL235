@@ -39,7 +39,7 @@ This lesson responds to the low percentage of students that take advantage of S.
 
 ### How to find S.T.A.T
 
-1. Log into Canvas.
+1. Log into [Canvas](https://pierce.instructure.com/login/canvas).
 
 2. Open the Student Services tab on the bottom of the left side of the screen.
 
