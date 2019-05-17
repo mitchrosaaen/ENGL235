@@ -13,7 +13,7 @@ difficulty level: low
 
 ## Lesson Abstact
 
-The Student Technology Assistance Team is a group of Pierce College team members that are available to provide help with anything ranging from Wifi, Canvas, Email, and more. This is accomplished through a live messaging system with knowledgable personnel such as professors, counselors, adbisors, and student volunteers. This feature can be found within the student services section within Canvas.
+The Student Technology Assistance Team is a group of Pierce College team members that are available to provide help with anything ranging from Wifi, Canvas, Email, and more. This is accomplished through a live messaging system with knowledgable personnel such as professors, counselors, advisors, and student volunteers. This feature can be found within the student services section within Canvas.
 
 ## Lesson Objectives/Outcomes
 
@@ -40,6 +40,8 @@ This lesson responds to the low percentage of students that take advantage of S.
 #### How to find S.T.A.T
 
 1. Log into [Canvas](https://pierce.instructure.com/login/canvas).
+
+![Login to Canvas](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/1.png "Login to Canvas")
 
 2. Open the Student Services tab on the bottom of the left side of the screen.
 
