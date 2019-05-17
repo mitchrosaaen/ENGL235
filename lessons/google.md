@@ -12,7 +12,7 @@ Difficulty level: Intermediate
 ---
 ## Lesson Abstact
 
-Cloud storage services can be extremely useful for many things, including sharing and collaborating. Google Drive is an example of a software that are capable of this.
+Cloud storage services can be extremely useful for many things, including sharing and collaborating. Google Drive is an example of a software that is capable of doing these objectives.
 ## Lesson Objectives/Outcomes
 
 ## Materials
