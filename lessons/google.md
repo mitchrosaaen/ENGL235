@@ -25,7 +25,7 @@ The materials needed in order to complete this lesson include:
 
 ## Overview
 
-
+This lesson responds to the many people who don't know about google drive and how it is very helpful when doing group collaborations with others.
 
 ## Lesson Steps/Components [as many as needed]
 
