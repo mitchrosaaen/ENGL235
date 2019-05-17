@@ -1,27 +1,31 @@
 ---
-title:How to take advantage of cloud storage for group collaboration.
+title: How to take advantage of cloud storage for group collaboration.
 authors:
 -Rodrigo Torres 
 -Nhan Nguyen 
 -Mitchell Rosaaen
-date:
+date:2019-05-17
 reviewers:
 - Jason Loan
-layout:lesson
-difficulty level:intermediate
+layout: Lesson
+difficulty level: Intermediate
 ---
 
 ## Lesson Abstact
-
+Cloud storage services can be extremely useful for many things, including sharing and collaborating. Things like Google Drive and Office 365 are examples of software that are capable of this.
 ## Lesson Objectives/Outcomes
 
 ## Materials
 
-What materials (software, etc.) do people need in order to complete the lesson?
+The materials needed in order to complete this lesson include:
+
+- Laptop/desktop
+- Google account
+- Internet access
 
 ## Overview
 
-This section may include an introduction to key ideas, concepts, or rationale for the lesson. For example, if you were doing a lesson on Zotero, piece of free bibliographic software, you would explain what what Zotero is, why it might be useful for learning to use, etc.
+
 
 ## Lesson Steps/Components [as many as needed]
 
