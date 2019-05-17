@@ -15,6 +15,12 @@ Difficulty level: Intermediate
 Cloud storage services can be extremely useful for many things, including sharing and collaborating. Google Drive is an example of a software that is capable of doing these objectives.
 ## Lesson Objectives/Outcomes
 
+After reading this tutorial, the student will understand:
+
+- How to do group collaborations with others
+- How to use Google's google drive
+
+
 ## Materials
 
 The materials needed in order to complete this lesson include:
