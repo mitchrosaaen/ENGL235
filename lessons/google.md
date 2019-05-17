@@ -1,17 +1,18 @@
 ---
-title: How to take advantage of cloud storage for group collaboration.
-authors:
+Title: How to take advantage of cloud storage for group collaboration.
+Authors:
 - Rodrigo Torres 
 - Nhan Nguyen 
 - Mitchell Rosaaen
-date: 2019-05-17
-reviewers:
+Date: 2019-05-17
+Reviewers:
 - Jason Loan
-layout: Lesson
-difficulty level: Intermediate
+Layout: Lesson
+Difficulty level: Intermediate
 ---
 ## Lesson Abstact
-Cloud storage services can be extremely useful for many things, including sharing and collaborating. Things like Google Drive and Office 365 are examples of software that are capable of this.
+
+Cloud storage services can be extremely useful for many things, including sharing and collaborating. Google Drive is an example of a software that are capable of this.
 ## Lesson Objectives/Outcomes
 
 ## Materials
