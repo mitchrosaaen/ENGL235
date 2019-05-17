@@ -41,6 +41,7 @@ This lesson responds to the low percentage of students that take advantage of S.
 
 1. Log into [Canvas](https://pierce.instructure.com/login/canvas).
 
+<img src="https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/1.png">
 ![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/1.png | width=100)
 
 2. Open the Student Services tab on the bottom of the left side of the screen.
