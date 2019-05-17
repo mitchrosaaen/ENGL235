@@ -1,14 +1,14 @@
 ---
-title: How to take advantage of cloud storage for group collaboration.
+title:How to take advantage of cloud storage for group collaboration.
 authors:
 -Rodrigo Torres 
 -Nhan Nguyen 
 -Mitchell Rosaaen
-date: 
+date:
 reviewers:
 - Jason Loan
-layout: lesson
-difficulty level: intermediate
+layout:lesson
+difficulty level:intermediate
 ---
 
 ## Lesson Abstact
