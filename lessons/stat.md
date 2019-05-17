@@ -45,7 +45,11 @@ This lesson responds to the low percentage of students that take advantage of S.
 
 2. Open the Student Services tab on the bottom of the left side of the screen.
 
+![Student Services](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/2.png "Student Services")
+
 3. Open S.T.A.T.
+
+![STAT](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/3.png "STAT")
 
 Now that you have made it to the S.T.A.T homepage, you can now access the live chat for assistance or use the modules for other helpful information.
 
