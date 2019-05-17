@@ -1,9 +1,9 @@
 ---
 title: How to take advantage of cloud storage for group collaboration.
 authors:
--Rodrigo Torres 
--Nhan Nguyen 
--Mitchell Rosaaen
+- Rodrigo Torres 
+- Nhan Nguyen 
+- Mitchell Rosaaen
 date:2019-05-17
 reviewers:
 - Jason Loan
