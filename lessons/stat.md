@@ -41,23 +41,29 @@ This lesson responds to the low percentage of students that take advantage of S.
 
 1. Log into [Canvas](https://pierce.instructure.com/login/canvas).
 
-!(https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/1.png)
+![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/1.png)
 
 2. Open the Student Services tab on the bottom of the left side of the screen.
 
-!(https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/2.png)
+![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/2.png)
 
 3. Open S.T.A.T.
 
-!(https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/3.png)
+![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/3.png)
 
 Now that you have made it to the S.T.A.T homepage, you can now access the live chat for assistance or use the modules for other helpful information.
+
+![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/4.png)
 
 #### How to use live chat
 
 1. In the home page of S.T.A.T, scroll down to see the list of people that you can connect with.
 
+![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/5.png)
+
 2. Click "Chat With Me!" to initiate the live support chat.
+
+![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/6.png)
 
 3. If there is nobody online, you can send an offline message.
 
@@ -65,9 +71,12 @@ Now that you have made it to the S.T.A.T homepage, you can now access the live c
 
 1. On the left side of the screen, open the "Modules" category.
 
+![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/7.png)
+
 2. Select any module to download or open.
+
+![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/8.png)
 
 ## Credits, Further Reading, etc.
 
-* You may find it necessary to reference and cite information from another source.
-* Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
+N/A
