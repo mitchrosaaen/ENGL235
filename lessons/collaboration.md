@@ -45,13 +45,31 @@ This lesson responds to the many people at Pierce who don't use cloud storage so
 
 4. Start a new document (or open an existing one).
 
-#### How to share your document
+From here you can share your document.
+
+#### How to share your document directly through an email
 
 1. Press the "Share" button at the top right (Make sure your document has a good name).
 
-2. If you know the persons email
+2. Enter the person's email in the text box.
 
+3. Click the drop down to determine the access that the person has to your document.
 
+4. Click send.
+
+Now you shared the document and the recipient has access to it!
+
+#### How to share your document with a link
+
+1. Press the "Share" button at the top right (Make sure your document has a good name).
+
+2. Click the "Get shareable link" button
+
+3. Click the drop down to determine the access that the person has to your document.
+
+4. Click the "Copy link" button.
+
+Now you can paste the link wherever you want.
 
 ## Credits, Further Reading, etc.
 
