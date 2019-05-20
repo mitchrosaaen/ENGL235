@@ -33,7 +33,7 @@ The materials needed in order to complete this lesson include:
 
 This lesson responds to the many people at Pierce who don't use cloud storage software. Knowing how to use Google Docs is useful for Pierce College students because it is likely that they will be expected to collaborate in a group project.
 
-## Lesson Steps/Components [as many as needed]
+## Lesson Steps/Components
 
 ### How to get Google Docs open
 
@@ -71,7 +71,7 @@ Now you shared the document and the recipient has access to it!
 
 Now you can paste the link wherever you want.
 
-### How to work with a shared document
+### How to work with a shared document as the recipient
 
 
 ## Credits, Further Reading, etc.
