@@ -35,7 +35,7 @@ This lesson responds to the many people at Pierce who don't use cloud storage so
 
 ## Lesson Steps/Components [as many as needed]
 
-#### How to get Google Docs open
+### How to get Google Docs open
 
 1. Log into Google (Gmail).
 
@@ -70,6 +70,9 @@ Now you shared the document and the recipient has access to it!
 4. Click the "Copy link" button.
 
 Now you can paste the link wherever you want.
+
+### How to work with a shared document
+
 
 ## Credits, Further Reading, etc.
 
