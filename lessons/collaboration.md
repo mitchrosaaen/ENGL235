@@ -73,8 +73,11 @@ Now you can paste the link wherever you want.
 
 ### How to work with a shared document as the recipient
 
+The recipient of the document is limited to whichever level of access was given from the sender. For example, a recipient with "editing" access will be able to make changes directly to the document. A recipient who only has commenting access will only be able to make suggestions and comments to a document. If a recipient only has viewing access, then no additions/changes can be made.
+
+1. Change your current level of access with the drop down at the top right of the screen. You are limited to the highest level you were originally granted.
 
 ## Credits, Further Reading, etc.
 
 * You may find it necessary to reference and cite information from another source.
-* Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
+* Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here. 
