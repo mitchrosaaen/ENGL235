@@ -79,5 +79,4 @@ The recipient of the document is limited to whichever level of access was given 
 
 ## Credits, Further Reading, etc.
 
-* You may find it necessary to reference and cite information from another source.
-* Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here. 
+N/A
