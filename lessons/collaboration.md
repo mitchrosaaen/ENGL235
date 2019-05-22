@@ -41,15 +41,15 @@ This lesson responds to the many people at Pierce who don't use cloud storage so
 
 2. Open the apps menu at the top right and scroll down.
 
-![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/a.png)
+![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/a1.png)
 
 3. Open Google Docs.
 
-![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/b.png)
+![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/b1.png)
 
 4. Start a new document (or open an existing one).
 
-![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/c.png)
+![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/c1.png)
 
 From here you can share your document.
 
@@ -57,15 +57,15 @@ From here you can share your document.
 
 1. Press the "Share" button at the top right (Make sure your document has a good name).
 
-![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/d.png)
+![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/d1.png)
 
 2. Enter the person's email in the text box.
 
-![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/e.png)
+![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/e1.png)
 
 3. Click the drop down to determine the access that the person has to your document.
 
-![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/f.png)
+![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/f1.png)
 
 4. Click send.
 
@@ -77,11 +77,7 @@ Now you shared the document and the recipient has access to it!
 
 2. Click the "Get shareable link" button
 
-![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/e.png)
-
 3. Click the drop down to determine the access that the person has to your document.
-
-![](https://raw.githubusercontent.com/mitchrosaaen/ENGL235/master/lessons/g.png)
 
 4. Click the "Copy link" button.
 
