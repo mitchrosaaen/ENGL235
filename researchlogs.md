@@ -41,10 +41,12 @@ To finalize the report, I just need to finish my interpretation of the data and 
 
 This week I learned a lot about the analytical report creation process and have developed much more respect and understanding for its importance.
 # Week 6
-Placeholder, placeholder placeholder. Placeholder
+Nothing to see here.
 # Week 7
-Placeholder, placeholder placeholder. Placeholder
+Nothing to see here.
 # Week 8
-Placeholder, placeholder placeholder. Placeholder
+After looking into the [Open Pedagogy Notebook](http://openpedagogy.org/open-pedagogy/), and looking into a [Technical Writing OER](https://courses.lumenlearning.com/suny-professionalcommunication/) that I found through Google, I think an OER would be good for this class. It would serve both as a valuable resource for students to refer to, and as an ongoing project for students to work on. I think if I were to take this option, first we would have to determine how the textbook should be hosted, then start laying down the framework of the textbook with a basic outline, and finally start on an introduction chapter to explain the basics of technical writing.
+
+I also think that the PierceHacker project is a worthy option to put focus towards. I believe that this project is a perfect opportunity to stray away from the "disposable assignment" that most classes fall victim to.
 # Week 9
 Placeholder, placeholder placeholder. Placeholder
