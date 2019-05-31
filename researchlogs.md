@@ -41,12 +41,14 @@ To finalize the report, I just need to finish my interpretation of the data and 
 
 This week I learned a lot about the analytical report creation process and have developed much more respect and understanding for its importance.
 # Week 6
-Nothing to see here.
+Nothing to see here...
 # Week 7
-Nothing to see here.
+Nothing to see here...
 # Week 8
 After looking into the [Open Pedagogy Notebook](http://openpedagogy.org/open-pedagogy/), and looking into a [Technical Writing OER](https://courses.lumenlearning.com/suny-professionalcommunication/) that I found through Google, I think an OER would be good for this class. It would serve both as a valuable resource for students to refer to, and as an ongoing project for students to work on. I think if I were to take this option, first we would have to determine how the textbook should be hosted, then start laying down the framework of the textbook with a basic outline, and finally start on an introduction chapter to explain the basics of technical writing.
 
-I also think that the PierceHacker project is a worthy option to put focus towards. I believe that this project is a perfect opportunity to stray away from the "disposable assignment" that most classes fall victim to.
+I also think that the [PierceHacker project](https://jloan.github.io/pierce-hacker/) is a worthy candidate to put focus towards. I believe that this project is a perfect opportunity to stray away from the "disposable assignment" that most classes fall victim to. The idea that this class could create something that any Pierce student could benefit from is appealing. I think since the project is still in its early stages, it would be best to work more on the framework in regards to formatting and usability, to better facilitate future contributions. If I were to take this option, I would work on the website design in order to make it more inviting to the end user, as well as develop a more convenient and user-friendly system for handling contribution proposals.
+
+I think if somebody were to work on their own self-designed project, it should be for something relating to the OER or PierceHacker project, because work for these has the potential of being beneficial to students in the future. So, any "self-designed" work that I would do would just be for either of these 2 projects.
 # Week 9
-Placeholder, placeholder placeholder. Placeholder
+Nothing to see here...
